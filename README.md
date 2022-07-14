@@ -60,12 +60,15 @@ Supports OpenHarmony API version 9
 
 # Code Contribution
 
-If you find any problems during usage, you can submit an Issue to us. Of course, we also welcome you to send us PR.
+If you find any problems during usage, you can submit
+an [Issue](https://github.com/Applib-OpenHarmony/SideSheet/issues) to us. Of course, we also welcome you to
+send us [PR](https://github.com/Applib-OpenHarmony/SideSheet/pulls).
 
 # Open Source License
 
-This project is based on Apache License 2.0, please enjoy and participate in open source freely.
-
+This project is based
+on [Apache License 2.0](https://github.com/Applib-OpenHarmony/SideSheet/blob/main/LICENSE), please enjoy and
+participate in open source freely.
 # Reference
 
 Designed by : Chaitanya P
