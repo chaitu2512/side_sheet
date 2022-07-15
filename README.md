@@ -77,3 +77,7 @@ participate in open source freely.
 # Reference
 
 Designed by : Chaitanya P
+
+# Open Issue
+
+This library currently has no feature of sliding animation.
