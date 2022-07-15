@@ -24,8 +24,8 @@ The Custom UI can be create Using the @Builder Function
 @Builder sheetDesign(): any {
     //UI
     Column() {
-      Text("Add UI  here")
-        .fontSize(20)
+      Text("Add UI here")
+        .fontSize(30)_
    }
  }
  
@@ -52,6 +52,11 @@ Passing the values to Material Sheet . Check the sample code.
     .width("100%")
 }
 ```
+
+![screenshot-1](./screenshots/Screenshot%20(2).png)
+
+![screenshot-2](./screenshots/Screenshot.png)
+
 Note : The properties of the sheet like positioning, 
 color, border width and color, shadow radius, etc are also customizable based on the requirement.
 # Compatibility 
